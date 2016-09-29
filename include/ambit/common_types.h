@@ -33,6 +33,7 @@ using std::stringstream;
 using std::ostringstream;
 using std::ostream_iterator;
 using std::istringstream;
+using std::complex;
 
 static constexpr double numerical_zero__ = 1.0e-15;
 
